@@ -1,0 +1,2 @@
+In this project, I will implement 3 web pages with Bootstrapand I will use all HTML/CSS/Accessibility/Responsive design/Bootstrap knowledges that I had learned previously.
+For this project, I will need: fonts from Google, JQuery, Bootstrap CSS/JS.
